@@ -3,7 +3,7 @@
 ## [1.0.0] - 2024-03-19
 
 ### Added
-- Initial release of go_router_extensions package
+- Initial release of go_router_deferred package
 - `DeferredRoute` extension for lazy loading of regular routes with full parameter support
 - `DeferredShellRoute` extension for lazy loading of shell routes with full parameter support
 - `DeferredStatefulShellRoute` extension for lazy loading of stateful shell routes with full parameter support
