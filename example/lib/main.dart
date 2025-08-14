@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:go_router_extensions/go_router_extensions.dart';
+import 'package:go_router_deferred/go_router_deferred.dart';
 
 // Import screens with deferred loading
 import 'screens/home_screen.dart' deferred as home_screen;
