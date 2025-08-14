@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2024-03-19
+
+### Changed
+- Updated documentation and license for pub.dev publication
+- Improved package metadata and descriptions
+
 ## [1.0.0] - 2024-03-19
 
 ### Added

@@ -1,6 +1,6 @@
 name: go_router_deferred
 description: Extensions for go_router to support deferred loading and lazy initialization of routes with full parameter support.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/sumitnemade/go_router_extensions
 repository: https://github.com/sumitnemade/go_router_extensions
 issue_tracker: https://github.com/sumitnemade/go_router_extensions/issues
