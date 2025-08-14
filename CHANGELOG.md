@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.2] - 2024-03-19
+
+### Changed
+- Additional documentation updates and improvements
+
 ## [1.0.1] - 2024-03-19
 
 ### Changed
