@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4] - 2026-01-17
+
+### Changed
+- Updated go_router dependency from 17.0.0 to 17.0.1
+- Updated Flutter SDK constraint from >=3.10.0 to >=3.35.0
+- Updated transitive dependencies to latest compatible versions
+
 ## [1.0.3] - 2024-12-19
 
 ### Changed

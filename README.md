@@ -5,8 +5,8 @@
 [![License](https://img.shields.io/github/license/sumitnemade/go_router_extensions.svg)](https://github.com/sumitnemade/go_router_extensions/blob/master/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/sumitnemade/go_router_extensions.svg)](https://github.com/sumitnemade/go_router_extensions/issues)
 [![Code Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)](https://github.com/sumitnemade/go_router_extensions)
-[![Flutter Version](https://img.shields.io/badge/flutter-3.35.1+-blue.svg)](https://flutter.dev)
-[![Dart Version](https://img.shields.io/badge/dart-3.9.0+-blue.svg)](https://dart.dev)
+[![Flutter Version](https://img.shields.io/badge/flutter-3.35.0+-blue.svg)](https://flutter.dev)
+[![Dart Version](https://img.shields.io/badge/dart-3.9.2+-blue.svg)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/platform-android%20%7C%20ios%20%7C%20web%20%7C%20windows%20%7C%20macos%20%7C%20linux-lightgrey.svg)](https://flutter.dev/multi-platform)
 
 A Flutter package that provides extensions for [go_router](https://pub.dev/packages/go_router) to support deferred loading and lazy initialization of routes.
@@ -25,8 +25,8 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  go_router_deferred: ^1.0.3
-  go_router: ^17.0.0
+  go_router_deferred: ^1.0.4
+  go_router: ^17.0.1
 ```
 
 ## Usage
