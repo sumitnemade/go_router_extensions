@@ -25,8 +25,8 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  go_router_deferred: ^1.0.4
-  go_router: ^17.0.1
+  go_router_deferred: ^1.0.5
+  go_router: ^17.2.3
 ```
 
 ## Usage

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5] - 2026-08-01
+
+### Changed
+- Updated go_router dependency from 17.0.1 to 17.2.3
+- Updated transitive dependencies to latest compatible versions (async, lints, source_span, vm_service)
+- All 60 tests passing with upgraded dependencies
+
 ## [1.0.4] - 2026-01-17
 
 ### Changed
